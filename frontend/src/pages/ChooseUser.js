@@ -142,7 +142,7 @@ const ChooseUser = ({ visitor }) => {
 export default ChooseUser;
 
 const StyledContainer = styled.div`
-  background: linear-gradient(to bottom, #411d70, #19118b);
+  background: linear-gradient(to bottom, #701d70, #19118b);
   height: 120vh;
   display: flex;
   justify-content: center;
