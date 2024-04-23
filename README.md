@@ -51,7 +51,7 @@ npm start
 Create a file called .env in the backend folder.
 Inside it write this :
 
-MONGO_URL = mongodb://191.2.1.3/32
+MONGO_URL = mongodb://0.0.0.0/0
 
 Instead of this link write your database link.
 
