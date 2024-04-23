@@ -51,7 +51,7 @@ npm start
 Create a file called .env in the backend folder.
 Inside it write this :
 
-MONGO_URL = mongodb://127.0.0.1/school
+MONGO_URL = mongodb://191.2.1.3/32
 
 Instead of this link write your database link.
 
@@ -77,7 +77,4 @@ So you have to do this in the frontend. After this the project will run smoothly
 
 <br>
 
-# Deployment
-* Render - server side
-* Netlify - client side
 
